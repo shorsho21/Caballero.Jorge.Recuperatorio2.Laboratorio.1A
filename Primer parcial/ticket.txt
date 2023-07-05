@@ -1,0 +1,4 @@
+PRODUCTO                              PRECIO     CANTIDAD     SUBTOTAL
+Alimento para perros                 $12.99      7            $90.93
+
+Total: $90.93

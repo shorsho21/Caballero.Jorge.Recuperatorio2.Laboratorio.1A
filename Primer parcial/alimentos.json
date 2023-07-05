@@ -1,0 +1,160 @@
+[
+    {
+        "id": "15",
+        "producto": "Alimento para perros",
+        "marca": "Blue Buffalo",
+        "precio": "21.99",
+        "caracteristicas": [
+            "Ingredientes naturales",
+            "Sin granos",
+            "Para razas peque\u00f1as"
+        ],
+        "stock": 0
+    },
+    {
+        "id": "18",
+        "producto": "Alimento para perros",
+        "marca": "Iams",
+        "precio": "14.50",
+        "caracteristicas": [
+            "Control de peso",
+            "Prote\u00ednas de calidad",
+            "Sabor delicioso"
+        ],
+        "stock": 1
+    },
+    {
+        "id": "45",
+        "producto": "Alimento para perros",
+        "marca": "Merrick",
+        "precio": "23.99",
+        "caracteristicas": [
+            "Ingredientes de calidad",
+            "Sin granos",
+            "Promueve una digesti\u00f3n saludable"
+        ],
+        "stock": 5
+    },
+    {
+        "id": "25",
+        "producto": "Alimento para perros",
+        "marca": "Nutro",
+        "precio": "17.99",
+        "caracteristicas": [
+            "Ingredientes de calidad",
+            "Sin conservantes artificiales",
+            "Salud digestiva"
+        ],
+        "stock": 8
+    },
+    {
+        "id": "32",
+        "producto": "Alimento para perros",
+        "marca": "Pedigree",
+        "precio": "19.50",
+        "caracteristicas": [
+            "Ingredientes naturales",
+            "Sin granos",
+            "Salud \u00f3ptima"
+        ],
+        "stock": 10
+    },
+    {
+        "id": "1",
+        "producto": "Alimento para perros",
+        "marca": "Pedigree",
+        "precio": "12.99",
+        "caracteristicas": [
+            "Sabor delicioso",
+            "Nutrici\u00f3n equilibrada",
+            "Contiene vitaminas y minerales"
+        ],
+        "stock": 6
+    },
+    {
+        "id": "9",
+        "producto": "Alimento para perros",
+        "marca": "Pro Plan",
+        "precio": "18.50",
+        "caracteristicas": [
+            "Ingredientes naturales",
+            "Alta digestibilidad",
+            "Para todas las etapas de vida"
+        ],
+        "stock": 10
+    },
+    {
+        "id": "2",
+        "producto": "Alimento para gatos",
+        "marca": "Purina ONE",
+        "precio": "9.99",
+        "caracteristicas": [
+            "Alta calidad",
+            "Prote\u00ednas de primera",
+            "Promueve un pelaje saludable"
+        ],
+        "stock": 5
+    },
+    {
+        "id": "29",
+        "producto": "Alimento para gatos",
+        "marca": "Royal Canin",
+        "precio": "24.99",
+        "caracteristicas": [
+            "F\u00f3rmula espec\u00edfica para razas",
+            "Salud digestiva",
+            "Pelo brillante"
+        ],
+        "stock": 9
+    },
+    {
+        "id": "11",
+        "producto": "Alimento para gatos",
+        "marca": "Science Diet",
+        "precio": "16.99",
+        "caracteristicas": [
+            "F\u00f3rmula equilibrada",
+            "Control de peso",
+            "Promueve la salud urinaria"
+        ],
+        "stock": 3
+    },
+    {
+        "id": "40",
+        "producto": "Alimento para peces",
+        "marca": "Tetra",
+        "precio": "5.99",
+        "caracteristicas": [
+            "Variedad de sabores",
+            "Alta calidad nutricional",
+            "Para peces tropicales"
+        ],
+        "stock": 10
+    },
+    {
+        "id": "22",
+        "producto": "Alimento para gatos",
+        "marca": "Wellness",
+        "precio": "22.50",
+        "caracteristicas": [
+            "Ingredientes naturales",
+            "Alta calidad",
+            "Promueve la salud digestiva",
+            "Sin granos"
+        ],
+        "stock": 0
+    },
+    {
+        "id": "50",
+        "producto": "Alimento para perros",
+        "marca": "Wellness CORE",
+        "precio": "29.99",
+        "caracteristicas": [
+            "Alta prote\u00edna",
+            "Ingredientes naturales",
+            "Sin granos",
+            "Salud digestiva"
+        ],
+        "stock": 4
+    }
+]
