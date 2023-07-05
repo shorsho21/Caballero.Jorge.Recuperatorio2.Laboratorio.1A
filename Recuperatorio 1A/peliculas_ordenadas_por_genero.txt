@@ -1,0 +1,51 @@
+id_peli,titulo,genero,duracion
+27,Powerpuff Girls,Action,219
+44,Gabriel,Action,207
+18,Headhunters,Action,191
+28,Brotherhood of Death,Action,117
+1,Adventures of Rocky,Adventure,239
+15,Antarctica,Adventure,166
+14,Open Season,Animation,196
+40,Invincible Iron Man,Animation,102
+5,Lovely Amazing,Comedy,239
+7,Mannequin,Comedy,235
+9,Fools Parade,Comedy,194
+41,Professor Beware,Comedy,181
+4,Monster in a Box,Comedy,175
+24,Killing Bono,Comedy,171
+46,The Man Who Shook,Comedy,162
+29,Music Within,Comedy,161
+48,True Confession,Comedy,155
+22,Lobo,Comedy,143
+43,Strike Up the Band,Comedy,139
+47,Boy Meets Girl,Comedy,124
+17,Wild Tales,Comedy,115
+26,Waiting,Comedy,103
+23,Only Old Men,Comedy,102
+31,One Shot,Documentary,182
+8,Rouva presidentti,Documentary,116
+16,Love in the Afternoon,Drama,229
+34,Little Girl,Drama,214
+3,Criminal,Drama,213
+37,Finding Forrester,Drama,207
+38,The End of the Tour,Drama,206
+50,Short Film About Love,Drama,175
+19,Moby Dick,Drama,172
+33,Twilight of a Woman,Drama,169
+13,Werckmeister Harmonies,Drama,162
+42,Beans of Egypt,Drama,136
+30,Bedford Incident,Drama,129
+36,Camp,Drama,128
+2,My Brother the Devil,Drama,126
+11,Longtime Companion,Drama,119
+20,Doors,Drama,112
+35,G Men,Drama,112
+45,Killjoy 3,Horror,209
+10,Hitcher,Horror,144
+32,Troll,Horror,137
+21,Dont Look in the Basement,Horror,114
+12,San Francisco,Musical,192
+25,My Friend Irma Goes,Musical,169
+6,Sleeping Dictionary,Romance,197
+39,Night Court,Thriller,147
+49,Violent Men,Western,219
